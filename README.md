@@ -8,5 +8,5 @@
 - ⚡ Fun fact: 👀🤔🤔
 
 
-<img src=https://![image](https://github.com/anaalvescosta/anaalvescosta/assets/98751512/4a727912-4e34-4647-a042-3084b6aa3be5) width="300"/>
+<img src="https://github.com/anaalvescosta/anaalvescosta/assets/98751512/4a727912-4e34-4647-a042-3084b6aa3be5)" width="300">
 
