@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👀 🙂
 
 - 🔭 I’m currently working on multiple programming languages ... 🤢 💻
 - 🌱 I’m always learning!😊
