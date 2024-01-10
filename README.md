@@ -22,7 +22,7 @@
 
 <br>
 <br>
-- ⚡ Fun: 👀
+- ⚡ 👀
 
 <div align="center">
 <img src="https://github.com/anaalvescosta/anaalvescosta/assets/98751512/4a727912-4e34-4647-a042-3084b6aa3be5)" width="600">
